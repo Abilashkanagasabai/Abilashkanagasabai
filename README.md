@@ -12,7 +12,7 @@
 
 [![GitHub iampawan](https://img.shields.io/github/followers/Abilashkanagasabai?style=social)](https://github.com/Abilashkanagasabai)
 
-[![Instagram: imthepk](https://img.shields.io/badge/Abilah-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/this_is_abilash/)](https://www.instagram.com/this_is_abilash/)
+[![Instagram: imthepk](https://img.shields.io/badge/Abilash-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/this_is_abilash/)](https://www.instagram.com/this_is_abilash/)
 
 [![Facebook: imthepk](https://img.shields.io/badge/Abilash-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Abilash-Kanagasabai/100008647606087)](https://www.facebook.com/people/Abilash-Kanagasabai/100008647606087/)
 
