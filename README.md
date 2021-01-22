@@ -2,7 +2,7 @@
 
 <img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
 
-## I'm a Student and AI enthusiast,!
+## I'm a Student and AI enthusiast 😎!
 
 - 🔭 I’m currently looking for  Opportunities Data Science Field !
 - 🌱 I’m currently learning everything 🤣
