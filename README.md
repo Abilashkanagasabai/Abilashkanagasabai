@@ -3,7 +3,7 @@
 <img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
 
 
-### Hi there, I'm [Abilash K]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/akshaykadam771?style=social) 👋
+### Hi there, I'm [Abilash K]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/Abilashkanagasabai?style=social) 👋
 
 <p>
   <em>
