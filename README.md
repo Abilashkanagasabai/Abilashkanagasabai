@@ -82,7 +82,7 @@ Happy Coding!!
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/abilash-kanagasabai-675559166/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/Abilashkanagasabai)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/this_is_abilash/)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abilashkanaagsabai&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=this_is_abilash&style=flat-square)
 
 ```python
 
