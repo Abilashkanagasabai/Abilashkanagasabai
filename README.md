@@ -55,13 +55,19 @@ Visualization.**
 
 **Operating systems :** Windows 10/ Linux(Ubuntu).
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
+## Skills 🚀 
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-</p>
-</div>
+[![](https://img.shields.io/badge/Tensorflow-fc820f?style=for-the-badge&logo=tensorflow&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Keras-fc2814?style=for-the-badge&logo=keras&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
 
 ![Abilash's github stats](https://github-readme-stats.vercel.app/api?username=Abilashkanagasabai&show_icons=true&hide_border=true)
 
