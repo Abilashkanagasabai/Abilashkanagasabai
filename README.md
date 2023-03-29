@@ -17,7 +17,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am in final year of my engineering 
+- 👨🏽‍💻 I am working as Data Scientist 
 - ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
 - 🤔 My interests are in Data Science, AI.
 - 💬 Ask me about anything, I am happy to help.
